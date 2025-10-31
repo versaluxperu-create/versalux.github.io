@@ -1,4 +1,4 @@
-// Preloader logic
+// Preloader hide
 window.addEventListener('load', () => {
-  setTimeout(() => document.getElementById('preloader').classList.add('hide'), 250);
+  setTimeout(() => document.getElementById('preloader').classList.add('hide'), 280);
 });
